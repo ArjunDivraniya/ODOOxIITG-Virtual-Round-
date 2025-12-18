@@ -2,10 +2,11 @@
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://odo-ox-iitg.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://expense-managment-eight.vercel.app/)
+[![Video Walkthrough](https://img.shields.io/badge/Video-Walkthrough-red?style=for-the-badge&logo=youtube)](https://youtu.be/RrZAaDPay9g?si=PpPDdgJj983wHOW5)
 [![Backend API](https://img.shields.io/badge/Backend-API-blue?style=for-the-badge&logo=render)](https://odooxiitg-1.onrender.com/api)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/yourusername/ODOOxIITG)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](./LICENSE)
+
 
 **Full-Stack Enterprise Expense Management Platform with Real-Time Collaboration & AI-Powered OCR**
 
